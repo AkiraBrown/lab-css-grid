@@ -1,4 +1,12 @@
 /* Write your CSS here! */
+.header {
+  display: grid;
+  grid-template-columns: 25% 75%;
+}
+.primary-content {
+  display: grid;
+  grid-template-columns: 25% 75%;
+}
 
 /* Do not change the CSS below. */
 
